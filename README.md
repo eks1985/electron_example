@@ -2,7 +2,7 @@
 Example application
 
 ## Install
-npm install
+```npm install```
 
 ## Run
-npm run && npm start
+```npm run && npm start```
